@@ -1,0 +1,88 @@
+{
+  "order_uid": "kak23132saddas",
+  "track_number": "mytracknumber",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Ruslan Maldybaev",
+    "phone": "+8237132",
+    "zip": "12332",
+    "city": "Saint-Petersburg",
+    "address": "Ploshad Pushkina 20",
+    "region": "Saint-Petersburg",
+    "email": "my_email@gmail.com"
+  },
+  "payment": {
+    "transaction": "kak23132saddas",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1817,
+    "payment_dt": 1637907727,
+    "bank": "alpha",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 3231,
+      "track_number": "mytracknumber",
+      "price": 20,
+      "rid": "xddxdxrid",
+      "name": "Banana",
+      "sale": 231,
+      "size": "0",
+      "total_price": 50,
+      "nm_id": 22,
+      "brand": "Global Village",
+      "status": 202
+    },
+    {
+      "chrt_id": 2133131,
+      "track_number": "mytracknumber",
+      "price": 22,
+      "rid": "ab4219087a764ae0btest",
+      "name": "apple",
+      "sale": 3,
+      "size": "0",
+      "total_price": 3113,
+      "nm_id": 231,
+      "brand": "Global Village",
+      "status": 202
+    },
+    {
+      "chrt_id": 12312321,
+      "track_number": "mytracknumber",
+      "price": 555,
+      "rid": "213123132",
+      "name": "Mango",
+      "sale": 123,
+      "size": "124",
+      "total_price": 123,
+      "nm_id": 231223,
+      "brand": "Peru",
+      "status": 202
+    },
+    {
+      "chrt_id": 321312231,
+      "track_number": "mytracknumber",
+      "price": 23123,
+      "rid": "213123132",
+      "name": "Tomato",
+      "sale": 332,
+      "size": "44",
+      "total_price": 231311,
+      "nm_id": 3231,
+      "brand": "Gatchina",
+      "status": 202
+    }
+  ],
+  "locale": "en",
+  "internal_signature": "SADasdasdaweER",
+  "customer_id": "adsaw3",
+  "delivery_service": "wb",
+  "shardkey": "231",
+  "sm_id": 132,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "2"
+}

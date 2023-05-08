@@ -1,0 +1,24 @@
+http:
+  host: localhost
+  port: 8000
+  maxHeaderBytes: 1
+  readTimeout: 10s
+  writeTimeout: 10s
+
+pg:
+  host: localhost
+  port: 5431
+  user: pguser
+  dbname: devdb
+  sslmode: disable
+
+nats:
+  URL: nats://localhost:4222
+  clusterID: test-cluster
+  clientID: client-order
+  channel: channel-order
+
+cache:
+  ttl: 60s
+  cleanUp: 350s
+

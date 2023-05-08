@@ -1,0 +1,49 @@
+{
+  "order_uid": "fgjhsdfrtvbli16h78i",
+  "track_number": "DSADS213312",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Ivan Ivanov",
+    "phone": "+9222341",
+    "zip": "132132312",
+    "city": "Kirov",
+    "address": "Ploshad Lenina 2",
+    "region": "Kirov",
+    "email": "kirov@gov.ru"
+  },
+  "payment": {
+    "transaction": "fgjhsdfrtvbli16h78i",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1817,
+    "payment_dt": 1637907727,
+    "bank": "alpha",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 312312,
+      "track_number": "DSADS213312",
+      "price": 5000,
+      "rid": "ab4219087a764ae0btest",
+      "name": "Boots",
+      "sale": 2,
+      "size": "2",
+      "total_price": 3331,
+      "nm_id": 123,
+      "brand": "Abibas",
+      "status": 202
+    }
+  ],
+  "locale": "ru",
+  "internal_signature": "aDASsdahgjk",
+  "customer_id": "test",
+  "delivery_service": "cdek",
+  "shardkey": "2",
+  "sm_id": 23,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "3"
+}

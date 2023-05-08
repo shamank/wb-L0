@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: postgres
+    ports:
+      - "5431:5432"
+    volumes:
+      - ./.databases/postgres:/var/lib/postgresql/data
+    env_file:
+      - ./.env
+    environment:
+      POSTGRES_DB: "devdb"
+      POSTGRES_USER: "pguser"
+      POSTGRES_PASSWORD: Qq111111
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+
+  nats:
+    image: nats-streaming
+    ports:
+      - "4222:4222"

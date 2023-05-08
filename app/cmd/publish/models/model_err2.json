@@ -1,0 +1,28 @@
+{
+  "order_uid": "fgjhsdfrtvbli16h78i",
+  "track_number": "adsads121e12e12eadadsaddas",
+  "entry": "WBIL",
+  "items": [
+    {
+      "chrt_id": 312312,
+      "track_number": "adsads121e12e12eadadsaddas",
+      "price": 5000,
+      "rid": "ab4219087a764ae0btest",
+      "name": "Boots",
+      "sale": 2,
+      "size": "2",
+      "total_price": 3331,
+      "nm_id": 123,
+      "brand": "Abibas",
+      "status": 202
+    }
+  ],
+  "locale": "ru",
+  "internal_signature": "aDASsdahgjk",
+  "customer_id": "test",
+  "delivery_service": "cdek",
+  "shardkey": "2",
+  "sm_id": 23,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "3"
+}
